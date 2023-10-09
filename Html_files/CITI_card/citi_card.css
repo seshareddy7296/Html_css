@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+.mainClass{
+    display: inline-block;
+}
+.card{
+    height: 300px;
+     width: 24%; 
+     background-color: rgb(132, 151, 9); 
+     float:left; 
+     margin-left: 1%;
+     overflow: scroll;
+     
+}
+#blue{
+    background-color: rgb(56, 56, 183);
+}
+#red{
+    background-color: rgb(6, 107, 99);
+}
+#yellow{
+    background-color: rgb(205, 50, 143);
+}
+.card>img{
+    width :348px;
+     height:150px
+}
+h3{
+    text-align: center;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+#profile{
+    border: 1px solid blueviolet;
+    height: 400px;
+    width: 100%;
+    display: inline;
+}
+#image{
+    border: 1px solid rgb(43, 61, 226);
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+#text{
+    border: 1px solid rgb(43, 226, 125);
+    height: 400px;
+    width: 49%;
+    float: left;
+}
